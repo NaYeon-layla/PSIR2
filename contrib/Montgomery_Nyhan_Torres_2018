@@ -1,10 +1,11 @@
-# <Paper short title>
+# <How conditioning on posttreatment variables can ruin your experiment and what to do about it.>
 
-**Contributor:** <name as it should appear in the repository>
+**Contributor:** <Na Yeon Kim>
 
-**Full citation:** <as given to you>
+**Full citation:** <Montgomery, J. M., Nyhan, B., & Torres, M. (2018). How conditioning on posttreatment variables can ruin your experiment and what to do about it. American Journal of Political Science, 62(3), 760-775.>
 
 ## 1. What the paper establishes
+Political scientists increasingly rely on experiments to estimate causal effects without bias. In practice, however, experiments encounter problems such as noncompliance and participant attrition, and the methods researchers use to address them can bias those estimates. Although the risks of posttreatment bias have long been discussed in statistics, econometrics, and political methodology, the authors argue that applied researchers, reviewers, and editors may not fully understand or may overlook those risks. They examine 75 experimental studies published in APSR, AJPS, and JOP between 2012 and 2014, coding whether researchers excluded participants based on posttreatment criteria, controlled for or interacted treatment with variables that could plausibly be affected by it, or conditioned on variables the authors identified as experimental outcomes. The authors then use analytical examples and reanalyses of real-world studies to show how such conditioning can distort experimental findings, and offer guidance for addressing practical research problems without introducing posttreatment bias.
 
 ## 2. Checks for a reviewer
 
